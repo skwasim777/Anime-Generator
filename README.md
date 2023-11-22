@@ -3,7 +3,6 @@
 
 Anime Pics Generator is a web application built to provide users with a quick and enjoyable way to discover new and interesting anime artwork. With just a click of a button, you can explore a diverse range of anime images from various artists.
 
-
 ## How to Use
 1. Simply click the "Get Anime" button.
 2. Watch as the magic happens! The application will fetch a random anime image for you.
